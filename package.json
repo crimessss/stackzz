@@ -1,0 +1,13 @@
+{
+  "name": "highrise-casino-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "highrise-js-sdk": "^1.5.3",
+    "icecast-stack": "^0.3.0",
+    "ws": "^8.14.2"
+  }
+}
